@@ -1,4 +1,4 @@
-# 🧠 JSON Builder from CSV - Demo Project
+# 🏗️ JSON Builder from CSV - Demo Project
 
 This repository showcases a powerful backend-style data transformation pipeline using Python. It demonstrates how to build highly structured JSON files by treating multiple CSV files as if they were part of a relational database (RDBMS). While this script was originally used in real-world applications involving API integrations and product catalogs, this version has been fully anonymized and adapted for portfolio purposes.
 
